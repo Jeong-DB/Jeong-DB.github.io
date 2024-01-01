@@ -9,7 +9,7 @@ header-img: img/theory/1.png
 ---
 > 어쩌구 저쩌구.  
 
-![표지](https://Kim-JeongHan.github.io/assets/img/theory/1.png)  
+![표지](https://Jeong-DB.github.io/assets/img/theory/1.png)  
 
 ---
 

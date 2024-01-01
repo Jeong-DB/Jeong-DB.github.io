@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-Kim-JeongHan:
+Jeong-DB:
   name:              JeongHan Kim
   email:             kimjh9813@naver.com
 
@@ -59,7 +59,7 @@ Kim-JeongHan:
     # paypal:          <username>
     email:           mailto:kimjh9813@naver.com
     linkedin:        jeonghan-kim-bb1013274
-    rss:             https://Kim-JeongHan.github.io/feed.xml
+    rss:             https://Jeong-DB.github.io/feed.xml
 
 
 # Another author
